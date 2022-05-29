@@ -1,0 +1,38 @@
+.CardContainer{
+    box-sizing: border-box;
+    width:310px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    height:465px;
+    
+}
+
+.specs{
+display: flex;
+justify-content: space-between;
+border:2px solid #14C38E;
+border-radius: 15px;
+margin:8px 0;
+}
+
+
+.cardImg{
+    border-radius:15px;
+}
+
+.content{
+    padding: 0 10px;
+}
+.buttonContainer{
+}
+
+.contentDiv{
+    margin-top: 20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
